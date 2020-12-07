@@ -1,9 +1,14 @@
 {
+  "scripts": {
+    "lerna": "lerna publish"
+  },
   "dependencies": {
     "async-validator": "^3.5.1",
     "element-ui": "^2.4.5"
   },
   "devDependencies": {
+    "lerna": "^3.22.1",
     "vue-cli-plugin-element": "~1.0.1"
-  }
+  },
+  "name": "vue-fyc-component"
 }
